@@ -1,0 +1,35 @@
+2025-06-21 15:27:13,870:CRITICAL:discord_bot: Error: No Discord token found. Please set the DISCORD_TOKEN environment variable.
+2025-06-21 15:32:17,408:CRITICAL:discord_bot: No Discord token found.
+2025-06-21 15:32:58,358:CRITICAL:discord_bot: No Discord token found.
+2025-06-21 15:34:35,374:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 15:34:36,435:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 15:36:38,611:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 15:36:38,859:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 15:52:38,659:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 15:52:38,916:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 15:54:27,075:INFO:discord_bot: Sent completion notification to task creator NuttieOG
+2025-06-21 16:22:29,959:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 16:22:30,330:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 16:49:39,299:INFO:discord_bot: Sent completion notification to task creator NuttieOG
+2025-06-21 16:53:05,533:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 16:53:05,906:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 17:20:43,309:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 17:20:43,600:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 17:22:09,798:INFO:discord_bot: Sent completion notification to task creator NuttieOG
+2025-06-21 17:23:49,827:INFO:discord_bot: Sent completion notification to task creator bluebard1nggo
+2025-06-21 17:26:37,065:INFO:discord_bot: Botten er klar som Cartel Catalina Pushere#3775
+2025-06-21 17:26:37,631:INFO:discord_bot: Synkroniseret 1 kommandoer.
+2025-06-21 17:38:18,594:INFO:discord_bot: File logging enabled
+2025-06-21 17:38:18,595:INFO:discord_bot: Loaded environment variables from .env file
+2025-06-21 17:38:18,595:INFO:discord_bot: Using OPGAVE_KANAL_ID from environment: 123456789012345678
+2025-06-21 17:38:18,596:INFO:discord_bot: Using KLAREDE_KANAL_ID from environment: 234567890123456789
+2025-06-21 17:38:21,744:INFO:discord_bot: Bot is ready as Cartel Catalina Pushere#3775
+2025-06-21 17:38:21,744:INFO:discord_bot: Connected to 1 guild(s)
+2025-06-21 17:38:21,744:INFO:discord_bot: Setting up channels and roles for guild: Test server (ID: 1385968146451529891)
+2025-06-21 17:38:21,744:INFO:discord_bot: Using task channel: opgaver (ID: 1385976197921636483)
+2025-06-21 17:38:21,744:INFO:discord_bot: Using completed tasks channel: klarede-opgaver (ID: 1385976198810566838)
+2025-06-21 17:38:22,176:INFO:discord_bot: Synchronized 1 commands successfully
+2025-06-21 17:38:22,176:INFO:discord_bot: Bot initialization complete
+2025-06-21 17:38:45,892:INFO:discord_bot: Creating task: '1' by user nuttieog (ID: 953316314141851748)
+2025-06-21 17:38:46,626:INFO:discord_bot: Task created successfully
+2025-06-21 17:38:52,599:INFO:discord_bot: Sent completion notification to task creator NuttieOG
